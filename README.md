@@ -3,7 +3,7 @@
 * [Articles] (#articles)
 
 ## Aggretors 
-* Comprehensive mix article for system design interview [[github][ag_system_design]]
+* Comprehensive article list for system design interview [[github][ag_system_design]]
 [ag_system_design]: https://github.com/checkcheckzz/system-design-interview
 
 ## Articles
