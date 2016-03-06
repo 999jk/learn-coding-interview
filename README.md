@@ -2,7 +2,7 @@
 * [Questions] (#questions)
 * [Articles] (#articles)
 
-## Aggretors 
+## Aggregators 
 * Comprehensive article list for system design interview [[github][ag_system_design]]
 [ag_system_design]: https://github.com/checkcheckzz/system-design-interview
 
