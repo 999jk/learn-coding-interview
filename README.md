@@ -15,3 +15,5 @@
 [a_union_find]: http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
 
 ## Questions
+* 3 Graph representations & pros/cons you should know [[stackoverflow][q_graph_representation]]
+[q_graph_representation]: http://stackoverflow.com/questions/5886274/comparing-object-graph-representation-to-adjacency-list-and-matrix-representatio
