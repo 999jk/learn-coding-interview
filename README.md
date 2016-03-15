@@ -1,6 +1,9 @@
 ### Contents
+* [Aggregators] (#aggregators)
+* [Algorithm Articles] (#algorithm-articles)
+* [Interview Tips] (#interview-tips)
 * [Questions] (#questions)
-* [Articles] (#articles)
+
 
 ## Aggregators 
 * Comprehensive article list for system design interview [[github][ag_system_design]]
