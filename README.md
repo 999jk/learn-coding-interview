@@ -16,4 +16,6 @@
 
 ## Questions
 * 3 Graph representations & pros/cons you should know [[stackoverflow][q_graph_representation]]
+* Understand Knapsack & NP Complete [[stackoverflow][q_knapsack_np_complete]]
+[q_knapsack_np_complete]: http://stackoverflow.com/questions/3907545/how-to-understand-the-knapsack-problem-is-np-complete
 [q_graph_representation]: http://stackoverflow.com/questions/5886274/comparing-object-graph-representation-to-adjacency-list-and-matrix-representatio
