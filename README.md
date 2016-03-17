@@ -8,8 +8,10 @@
 ## Aggregators 
 * Comprehensive article list for system design interview [[github][ag_system_design]]
 * Everything you need to kick ass on your coding interview [[github][ag_all_you_need]]
+* Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][ag_udemy_course]]
 [ag_system_design]: https://github.com/checkcheckzz/system-design-interview
 [ag_all_you_need]: https://github.com/andreis/interview
+[ag_udemy_course]: https://www.udemy.com/programming-code-interview/?couponCode=NEWSLETTER-COURSE-FRIENDS
 
 ## Algorithm Articles
 * Binary Indexed Tree [[top_coder][a_bin]]
