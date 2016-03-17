@@ -1,6 +1,7 @@
 ### Contents
 * [Aggregators] (#aggregators)
 * [Algorithm Articles] (#algorithm-articles)
+* [Courses] (#courses)
 * [Interview Tips] (#interview-tips)
 * [Questions] (#questions)
 
@@ -8,10 +9,9 @@
 ## Aggregators 
 * Comprehensive article list for system design interview [[github][ag_system_design]]
 * Everything you need to kick ass on your coding interview [[github][ag_all_you_need]]
-* Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][ag_udemy_course]]
 [ag_system_design]: https://github.com/checkcheckzz/system-design-interview
 [ag_all_you_need]: https://github.com/andreis/interview
-[ag_udemy_course]: https://www.udemy.com/programming-code-interview/?couponCode=NEWSLETTER-COURSE-FRIENDS
+
 
 ## Algorithm Articles
 * Binary Indexed Tree [[top_coder][a_bin]]
@@ -20,6 +20,10 @@
 [a_bin]: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
 [a_union_find]: http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
 [a_map_reuce_algo]: http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
+
+## Courses
+* Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][c_udemy_course]]
+[c_udemy_course]: https://www.udemy.com/programming-code-interview/?couponCode=NEWSLETTER-COURSE-FRIENDS
 
 ## Interview Tips
 * Tips on writing test cases in the interview [[web][i_testcases]]
