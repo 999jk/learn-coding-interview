@@ -1,6 +1,7 @@
 ### Contents
 * [Aggregators] (#aggregators)
 * [Algorithm Articles] (#algorithm-articles)
+* [System Design Interviews] (#sytem-design-interviews)
 * [Courses] (#courses)
 * [Interview Tips] (#interview-tips)
 * [Questions] (#questions)
@@ -29,6 +30,10 @@
 ## Interview Tips
 * Tips on writing test cases in the interview [[web][i_testcases]]
 [i_testcases]: http://blogs.msdn.com/b/jmstall/archive/2006/12/07/interiew-tip-testing.aspx
+
+## System Design Interviews
+* MUST WATCH - CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan 11:13 [[youtube][sys_cs75]] 
+[sys_cs75]: https://www.youtube.com/watch?v=-W9F__D3oY4
 
 ## Questions
 * 3 Graph representations & pros/cons you should know [[stackoverflow][q_graph_representation]]
