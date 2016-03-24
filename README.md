@@ -21,7 +21,7 @@
 * Union Find (super easy-to-understand) -> MST (Kruskal) & Euler Cycles (tours) [[pdf][a_union_find]]
 [a_bin]: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
 [a_union_find]: http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
-[a_map_reuce_algo]: http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
+[a_map_reduce_algo]: http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
 
 ## Courses
 * Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][c_udemy_course]]
