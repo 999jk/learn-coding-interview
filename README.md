@@ -33,7 +33,9 @@
 
 ## System Design Interviews
 * MUST WATCH - CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan 11:13 [[youtube][sys_cs75]] 
+* Consistent Hashing [[web][sys_consist_hash]]
 [sys_cs75]: https://www.youtube.com/watch?v=-W9F__D3oY4
+[sys_consist_hash]: http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html
 
 ## Questions
 * 3 Graph representations & pros/cons you should know [[stackoverflow][q_graph_representation]]
