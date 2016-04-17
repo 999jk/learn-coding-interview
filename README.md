@@ -19,9 +19,11 @@
 * Binary Indexed Tree [[top_coder][a_bin]]
 * Design algorithms for map-reduce [[blog][a_map_reduce_algo]]
 * Union Find (super easy-to-understand) -> MST (Kruskal) & Euler Cycles (tours) [[pdf][a_union_find]]
+* Asymtotic Time Complexity Analysis (in terms of T(n) function) [[slide][a_asym_time]]
 [a_bin]: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
 [a_union_find]: http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
 [a_map_reduce_algo]: http://horicky.blogspot.com/2010/08/designing-algorithmis-for-map-reduce.html
+[a_asym_time]: http://www.cs.cornell.edu/courses/cs211/2005sp/lectures/l14-bigo/l14-15-complexity.4up.pdf
 
 ## Courses
 * Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][c_udemy_course]]
