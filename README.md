@@ -30,7 +30,7 @@
 [c_udemy_course]: https://www.udemy.com/programming-code-interview/?couponCode=NEWSLETTER-COURSE-FRIENDS
 
 ## Problems
-* Burst Balloon [[web][prob_burst_balloon]] [[web][prob_burst_balloon2]]
+* Burst Balloon [[web1][prob_burst_balloon1], [web2][prob_burst_balloon2]]
 [prob_burst_balloon1]: https://kennyzhuang.gitbooks.io/algorithms-collection/content/burst_balloons.html
 [prob_burst_balloon2]: https://leetcode.com/discuss/72216/share-some-analysis-and-explanations
 
