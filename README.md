@@ -1,11 +1,11 @@
 ### Contents
 * [Aggregators] (#aggregators)
 * [Algorithm Articles] (#algorithm-articles)
-* [System Design Interviews] (#sytem-design-interviews)
 * [Courses] (#courses)
 * [Interview Tips] (#interview-tips)
+* [Problems] (#problems)
+* [System Design Interviews] (#sytem-design-interviews)
 * [Questions] (#questions)
-
 
 ## Aggregators 
 * Comprehensive article list for system design interview [[github][ag_system_design]]
@@ -28,6 +28,10 @@
 ## Courses
 * Udemy course to "Ace Your Coding Interview & Land Your Dream Programming Job" [[udemy][c_udemy_course]]
 [c_udemy_course]: https://www.udemy.com/programming-code-interview/?couponCode=NEWSLETTER-COURSE-FRIENDS
+
+## Problems
+* Burst Balloon [[web][prob_burst_balloon]]
+[prob_burst_balloon]: https://kennyzhuang.gitbooks.io/algorithms-collection/content/burst_balloons.html
 
 ## Interview Tips
 * Tips on writing test cases in the interview [[web][i_testcases]]
